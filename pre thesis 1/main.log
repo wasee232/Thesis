@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.6)  6 FEB 2026 01:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.6)  6 FEB 2026 01:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -965,14 +965,8 @@ L3 programming layer <2025-12-24>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B565208DC39CCE61386A27B9FE2311B1;8584
-(rerunfilecheck)             After:  C81826336B910863AA259C4445F47EDF;8530.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C81826336B910863AA259C4445F47EDF;8530.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -990,7 +984,7 @@ Here is how much of TeX's memory you used:
 ts/cm/cmbx12.pfb><C:/Users/thame/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmr12.pfb><C:/Users/thame/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (21 pages, 116071 bytes).
+Output written on main.pdf (21 pages, 116090 bytes).
 PDF statistics:
  418 PDF objects out of 1000 (max. 8388607)
  90 named destinations out of 1000 (max. 500000)
