@@ -1,12 +1,4 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.3)  6 FEB 2026 18:09
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.6)  6 FEB 2026 19:28
->>>>>>> Stashed changes
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.6)  6 FEB 2026 19:28
->>>>>>> Stashed changes
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.3)  6 FEB 2026 19:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -903,11 +895,11 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
  [8
 
 
-] (main.lof)
+] [9] (main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [9
+ [10
 
 ] (main.lot)
 \tf@lot=\write8
@@ -915,7 +907,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
 
 
 No file main.nls.
-[10
+[11
 
 ]
 Chapter 1.
@@ -923,6 +915,10 @@ Chapter 1.
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
+
+
+LaTeX Warning: Citation 'Hossain2024BengaliLPR' on page 1 undefined on input li
+ne 12.
 
 
 Overfull \hbox (13.17215pt too wide) in paragraph at lines 12--15
@@ -933,43 +929,35 @@ ance in-fras-truc-tures.However,
 [1
 
 
-]) [2]
-Chapter 2.
-(chapters/chapter_2.tex [3
-
-]) [4]
-Chapter 3.
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-(chapters/chapter_3.tex) [5
-
-] [6]
-Chapter 4.
-(chapters/chapter_5.tex) [7
-
-] [8]
-Chapter 5.
-(chapters/chapter_6.tex) [9
-
 ]
-Chapter 6.
->>>>>>> Stashed changes
+Overfull \hbox (4.12915pt too wide) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/12 Additional Bangla li-cense plate im-ages will be col-lected f
+rom traf-fic surveil-
+ []
+
+[2] [3]
+Overfull \hbox (2.72368pt too wide) in paragraph at lines 97--98
+[]\OT1/cmr/m/n/12 Developing or adapt-ing a Bangla-trained Op-ti-cal Char-ac-te
+r Recog-ni-tion (OCR)
+ []
+
+[4]
+Overfull \hbox (3.66356pt too wide) in paragraph at lines 111--112
+[]\OT1/cmr/bx/n/12 Environmental and Light-ing Vari-a-tions: \OT1/cmr/m/n/12 Ch
+anges in il-lu-mi-na-tion, weather
+ []
+
+) [5]
+Chapter 2.
+(chapters/chapter_2.tex [6
+
+]) [7]
+Chapter 3.
 (chapters/chapter_9.tex)
 
 LaTeX Warning: Empty bibliography on input line 133.
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-[4
-=======
-[10
->>>>>>> Stashed changes
-=======
-[10
->>>>>>> Stashed changes
+[8
 
 ] (appendix/appendix_1.tex) (appendix/appendix_2.tex) (main.aux)
  ***********
@@ -985,31 +973,22 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-<<<<<<< Updated upstream
-(rerunfilecheck)             Checksum: 268B9082E77050A961DFFC38C3E2E575;3523.
-=======
-(rerunfilecheck)             Checksum: C81826336B910863AA259C4445F47EDF;8530.
+(rerunfilecheck)             Checksum: 0576A40A8AD3E8F5BBA20BF215DD721E;3821.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
 (biblatex)                and rerun LaTeX afterwards.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
- 21477 strings out of 467870
- 384680 string characters out of 5418840
- 1292927 words of memory out of 5000000
- 50012 multiletter control sequences out of 15000+600000
- 633093 words of font info for 59 fonts, out of 8000000 for 9000
+ 21728 strings out of 467870
+ 388938 string characters out of 5418840
+ 1295978 words of memory out of 5000000
+ 50204 multiletter control sequences out of 15000+600000
+ 633698 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  110i,5n,107p,1731b,1838s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Asus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
@@ -1017,30 +996,9 @@ Here is how much of TeX's memory you used:
 /cm/cmbx12.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmr12.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (15 pages, 90203 bytes).
+Output written on main.pdf (20 pages, 110694 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 209 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-=======
->>>>>>> Stashed changes
- 21560 strings out of 467871
- 386612 string characters out of 5418377
- 1293939 words of memory out of 5000000
- 50050 multiletter control sequences out of 15000+600000
- 633698 words of font info for 61 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 110i,6n,107p,1941b,2319s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\thame\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/thame/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/thame/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/thame/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (22 pages, 120694 bytes).
-PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
- 433 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> Stashed changes
+ 342 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
