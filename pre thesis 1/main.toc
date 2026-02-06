@@ -19,6 +19,7 @@
 \contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Preliminaries}{3}{section.2.1}%
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 \contentsline {section}{\numberline {2.2}Review of Existing Research}{3}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Summary of Key Findings}{3}{section.2.3}%
 \contentsline {chapter}{\numberline {3}Conclusion}{4}{chapter.3}%
@@ -27,6 +28,8 @@
 \contentsline {section}{\numberline {3.3}Recommendations for Future Work}{4}{section.3.3}%
 \contentsline {chapter}{Bibliography}{4}{section*.17}%
 =======
+=======
+>>>>>>> Stashed changes
 \contentsline {section}{\numberline {2.2}Review of Existing Research}{4}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Summary of Key Findings}{4}{section.2.3}%
 \contentsline {chapter}{\numberline {3}Requirements, Impacts and Constraints }{5}{chapter.3}%
@@ -60,4 +63,7 @@
 \contentsline {section}{\numberline {6.2}Contributions to the Field}{10}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Recommendations for Future Work}{10}{section.6.3}%
 \contentsline {chapter}{Bibliography}{10}{section*.17}%
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
